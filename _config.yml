@@ -1,7 +1,7 @@
 name: ProSchola
 favicon: null
 layout_spectrum: 0.6398787554353476
-typography_spectrum: 0.7287671817466617
+typography_spectrum: 0.2596
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8056157759856433
-  lightness: 0.9873151951469481
-  saturation: 0.2431702020112425
-  rhythmicContrast: 0.6122009071987122
+    - '#ffffff'
+    - '#878787'
+    - '#ffd100'
+    - '#0093fe'
+    - '#f97a00'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
