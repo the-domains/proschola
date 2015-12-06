@@ -4,7 +4,7 @@
         <description><![CDATA[ProSchola]]></description>
         <link>https://thegrid.ai/proschola/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 07:20:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/proschola/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/proschola/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">7b47ecc5-d259-4091-9f24-5cd3bef879a2</guid>
             <pubDate>Sun, 06 Dec 2015 07:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[O nás]]></title>
-            <description><![CDATA[<h1>O nás</h1>]]></description>
-            <link>https://thegrid.ai/proschola/o-nas/index.html</link>
-            <guid isPermaLink="false">98fe8eef-499c-4034-963b-a15891b35fb4</guid>
-            <pubDate>Sun, 06 Dec 2015 07:18:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
